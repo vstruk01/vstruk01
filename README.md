@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![VStruk01's GitHub stats](https://github-readme-stats.vercel.app/api?username=vstruk01&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/vstruk01)               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vstruk01&layout=compact&theme=dark&langs_count=8)](https://github.com/vstruk01)
+[![VStruk01's GitHub stats](https://github-readme-stats.vercel.app/api?username=vstruk01&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/vstruk01)
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vstruk01&layout=compact&theme=dark&langs_count=8)](https://github.com/vstruk01)
