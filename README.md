@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 [![VStruk01's GitHub stats](https://github-readme-stats.vercel.app/api?username=vstruk01&count_private=true&show_icons=true&theme=dark)](https://github.com/vstruk01)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vstruk01&layout=compact)](https://github.com/vstruk01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vstruk01&layout=compact&theme=dark)](https://github.com/vstruk01)
